@@ -1,3 +1,5 @@
+**TODO: Rewrite MobX part with Redux: https://medium.com/@conanmy/move-from-mobx-to-redux-a3481c2d71f4**
+
 # React Native Embryo
 
 - [x] Bug-free Xcode & Android setups for multiple build flavors
